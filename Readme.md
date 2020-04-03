@@ -1,1 +1,1 @@
-Latihan sudah ok
+Latihan sudah ok : Commit & Push
